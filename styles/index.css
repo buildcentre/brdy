@@ -190,9 +190,6 @@ img {
     left: -10px;
     top: -15px;
   }
-  .container .content .lines {
-    top: 4rem;
-  }
   .container .content .lines .tagline {
     font-size: 2rem;
   }
@@ -203,7 +200,7 @@ img {
     top: 2rem;
   }
   .footer {
-    top: 18rem;
+    top: 12rem;
   }
   .footer .copy {
     font-size: 0.9rem;
