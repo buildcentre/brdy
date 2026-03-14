@@ -191,8 +191,7 @@ img {
     top: -15px;
   }
   .container .content .lines {
-    margin: 3rem 0;
-    top: 8rem;
+    top: 4rem;
   }
   .container .content .lines .tagline {
     font-size: 2rem;
@@ -204,7 +203,7 @@ img {
     top: 2rem;
   }
   .footer {
-    top: 25rem;
+    top: 18rem;
   }
   .footer .copy {
     font-size: 0.9rem;
@@ -216,7 +215,7 @@ img {
   }
   .container .whatsapp-btn {
     right: 180px;
-    bottom: 100px;
+    bottom: 130px;
   }
   .container .whatsapp-btn svg {
     width: 45px;
