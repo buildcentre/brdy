@@ -203,6 +203,9 @@ img {
     position: relative;
     top: 2rem;
   }
+  .footer {
+    top: -4rem;
+  }
   .footer .copy {
     font-size: 0.9rem;
   }
@@ -212,7 +215,7 @@ img {
     }
   }
   .container .whatsapp-btn {
-    right: 120px;
+    right: 170px;
     bottom: 110px;
   }
   .container .whatsapp-btn svg {
