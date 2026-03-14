@@ -138,6 +138,7 @@ img {
      object-fit: cover;
   opacity: 0;
   animation: fade-in 1s forwards;
+  pointer-events: none;
 }
 @keyframes fade-in {
   to {
@@ -190,6 +191,9 @@ img {
     left: -10px;
     top: -15px;
   }
+  .container .content .lines {
+    top: -4rem;
+  }
   .container .content .lines .tagline {
     font-size: 2rem;
   }
@@ -208,7 +212,7 @@ img {
     }
   }
   .container .whatsapp-btn {
-    right: 80px;
+    right: 120px;
     bottom: 110px;
   }
   .container .whatsapp-btn svg {
