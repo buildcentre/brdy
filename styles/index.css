@@ -195,6 +195,9 @@ img {
     left: -18px;
     top: -20px;
   }
+  .container .content .lines {
+    top: 0;
+  }
   .container .content .lines .tagline {
     font-size: 3rem;
   }
