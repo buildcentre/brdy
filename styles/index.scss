@@ -235,21 +235,27 @@ img {
 @media (max-width: 480px) {
   .container {
     .content {
-      .logo span {
-        left: -10px;
-        top: -15px;
+      .logo {
+        strong {
+          font-size: 3rem;
+        }
+        span {
+          font-size: 1.2rem;
+          left: -18px;
+          top: -20px;
+        }
       }
 
       .lines {
         .tagline {
-          font-size: 2rem;
+          font-size: 3rem;
         }
 
         .subtext {
-          width: 90%;
-          text-align: center;
+          width: 100%;
           position: relative;
-          top: 2rem;
+          top: 1rem;
+          font-size: 1.5rem;
         }
       }
     }

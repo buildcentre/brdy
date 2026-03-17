@@ -187,18 +187,22 @@ img {
 }
 /* ---------- Mobile ---------- */
 @media (max-width: 480px) {
+  .container .content .logo strong {
+    font-size: 3rem;
+  }
   .container .content .logo span {
-    left: -10px;
-    top: -15px;
+    font-size: 1.2rem;
+    left: -18px;
+    top: -20px;
   }
   .container .content .lines .tagline {
-    font-size: 2rem;
+    font-size: 3rem;
   }
   .container .content .lines .subtext {
-    width: 90%;
-    text-align: center;
+    width: 100%;
     position: relative;
-    top: 2rem;
+    top: 1rem;
+    font-size: 1.5rem;
   }
   .footer {
     top: 5rem;
